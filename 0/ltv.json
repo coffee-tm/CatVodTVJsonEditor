@@ -198,7 +198,7 @@
     "quickSearch": 1,
     "filterable": 0
   }
-]
+],
   "lives": [
     {
       "group": "自定义",
@@ -452,4 +452,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ]
+
 }
